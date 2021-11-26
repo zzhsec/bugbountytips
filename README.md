@@ -10,7 +10,24 @@
 
 ### 目錄
 <details>
-  <summary><strong>1.驗證碼繞過 【點擊展開】</strong></summary>  
+  <summary><strong>1.驗證碼繞過 【點擊展開】</strong></summary>
+  
+  * 驗證碼一直有效
+  
+  * 生成驗證碼字符集可控
+  
+  * 驗證碼存放在暴露的位置
+  
+  * 驗證碼爲空，或者 8888 & 0000等繞過
+  
+  * 驗證碼尺寸可控
+  
+  * 使用Burp繞過驗證碼
+  
+</details>
 
+<details>
+  <summary><strong>2.任意密碼重置 【點擊展開】</strong></summary>
+  
 
 </details>
