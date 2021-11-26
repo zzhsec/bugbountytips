@@ -1,6 +1,3 @@
-![image](https://user-images.githubusercontent.com/92664048/143562067-2285626b-9ed3-4d9b-a21c-97613106d37b.png)
-
-
 ### 描述
 本項目收集並整理一些漏洞賞金獵人的資料，供學習使用。如果有任何問題，請告訴我們。
 
