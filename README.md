@@ -9,11 +9,11 @@
 <details>
   <summary><strong>1.驗證碼繞過 【點擊展開】</strong></summary>
   
-  * 驗證碼一直有效
+  * [驗證碼一直有效](https://github.com/0x00007e/bugbountytips/discussions/2)
   
-  * 生成驗證碼字符集可控
+  * [生成驗證碼字符集可控](https://github.com/0x00007e/bugbountytips/discussions/4)
   
-  * 驗證碼存放在暴露的位置
+  * [驗證碼存放在暴露的位置](https://github.com/0x00007e/bugbountytips/discussions/5)
   
   * 驗證碼爲空，或者 8888 & 0000等繞過
   
